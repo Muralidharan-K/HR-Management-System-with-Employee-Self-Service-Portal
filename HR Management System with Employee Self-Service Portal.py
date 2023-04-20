@@ -658,8 +658,6 @@ class Logout:
             frm.destroy()
         AppTitle()
         Login()
-
 AppTitle()      
 Login()
 M_win.mainloop()
-
