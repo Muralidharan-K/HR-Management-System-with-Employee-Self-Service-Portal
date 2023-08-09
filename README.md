@@ -3,4 +3,8 @@ An integrated HR platform that streamlines HR processes from employee enrollment
 
 # Employee_info table
 
-![Employee_info Table](Image/Employee_info%20table.png)
+![](Image/Employee_info%20table.png)
+
+# Attendance table
+
+![](Image/Attendance%20table.JPG)
